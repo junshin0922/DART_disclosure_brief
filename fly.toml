@@ -1,0 +1,8 @@
+app = 'disclosure-brief-patient-hill-9013'
+primary_region = 'nrt'
+
+[build]
+
+[[vm]]
+  memory = '256mb'
+  cpus = 1
