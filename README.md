@@ -2,7 +2,7 @@
 
 > Real-time AI translation of Korean corporate disclosures for global investors.
 
-Korean listed companies file ~200 disclosures per day on [DART](https://dart.fss.or.kr/). For global investors covering Korea, there is a consistent 30-minute to 2-hour window between filing release and English-language coverage appearing on Bloomberg or Reuters.
+Korean listed companies file ~200 disclosures per day on [DART](https://dart.fss.or.kr/).
 
 Disclosure Brief closes that gap.
 
